@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [it project](https://github.com/ismailawa/itproject1.git)
 
+- 👯 Readme generator [Read me](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
